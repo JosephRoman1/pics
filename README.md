@@ -1,0 +1,1 @@
+Application that shows various images based on what was entered in the search bar.  Unsplash api key is required for this application to work properly.  The unsplash api key needs to be placed as the string value for the Authorization key, in the api.js file.

@@ -1,0 +1,9 @@
+.image-list {
+    columns: 6 200px; /* shorthand property for setting the number of columns and the width of the columns. */
+    column-gap: 10px;
+}
+
+img {
+    width: 100%;
+    margin-bottom: 10px;
+}
